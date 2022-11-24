@@ -1,7 +1,7 @@
-# Thomp's Movies Project
+# Hooked Movies Project
 
 ## Motivation
-A Project developed with React, consuming the TMDB API (films), to practice the knownledge about React hooks and React Router, created with CRA template.
+A Project developed with React.Js, consuming the TMDB API (films), to practice the knownledge about React hooks and React Router, created with CRA template.
 
 ## Running the project
 

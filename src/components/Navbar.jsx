@@ -20,7 +20,7 @@ const Navbar = () => {
       <h2>
         <Link to="/">
           <BiCameraMovie />
-          Thomp's Movies
+          Hooked Movies
         </Link>
       </h2>
       <form onSubmit={handleSubmit}>

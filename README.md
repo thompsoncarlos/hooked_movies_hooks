@@ -7,7 +7,7 @@ A Project developed with React.Js, consuming the TMDB API (films), to practice t
 
 1. Clone the project and access directory:
 ```bash
-git clone https://github.com/thompsoncarlos/thomps_movies_hooks.git
+git clone https://github.com/thompsoncarlos/hooked_movies_hooks.git
 cd thomps_movies_hooks
 ```
 2. Download dependencies:
